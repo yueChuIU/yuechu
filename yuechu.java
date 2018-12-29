@@ -1,5 +1,6 @@
 public class yuechu{
 	public static void main(String[] args){
-		system.out.println("hello")	
+		System.out.println("hello")
+		System.out.println("world")	
 	}
 }
